@@ -38,14 +38,10 @@
         border-radius: 20px;
        }
        .input{
-        background-color: white;
-        padding: 30px;
+         background-color: white;
         border-radius: 10px;
         size: 10px;
         box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-        max-height: 100%;
-        margin:2vw 18vw;
-        padding-left: 2vh;
        }
        .box2{
         display: inline;
